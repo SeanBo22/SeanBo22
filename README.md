@@ -13,9 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, co
 
 ## 🌟 Featured Projects
 ### **🏠 Home Price Predictor**
-- **Description:** AI-powered tool to predict housing prices based on features like zip code, beds, baths, and square footage.
-- **Tech Stack:** Python, scikit-learn, Streamlit.
-- **Demo:** [Live Application](#)
-- **Repo:** [Home Price Predictor](#)
+- **Description:** Machine Learning model to predict housing prices based on features like zip code, beds, baths, and square footage.
+- **Repo:** [Home Price Predictor](https://github.com/SeanBo22/home-price-predictor)
 
 
