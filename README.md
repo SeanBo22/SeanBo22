@@ -1,6 +1,6 @@
 # Hi there, I'm Sean Bohuslavsky! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, constantly exploring new ideas and building solutions. Here's a glimpse into my work and interests:
+Welcome to my GitHub profile! I'm a passionate developer, constantly exploring new ideas and building solutions.
 
 ---
 
